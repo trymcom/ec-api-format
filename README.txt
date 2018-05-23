@@ -1,6 +1,1 @@
-```html
-BLOUSE BLLTYM0407 ¥7,900+tax
-SKIRT SKLTYM0458 ¥7,900+tax
-PANTS PRLTYM1017 ¥9,900+tax
-BAG BOL8YM0212 ¥7,500+tax
-```
+https://trymcom.github.io/ec-api-format/

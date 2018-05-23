@@ -28,9 +28,9 @@ $(function(){
         var $elem = $(html[i]);
 
         $elem.attr('data-api', pcode);
-        $elem.find('[class$="api-name"]').text(name);
-        $elem.find('[class$="api-pcode"]').text(pcode);
-        $elem.find('[class$="api-price"]').text(price);
+        $elem.find('[class$="name"]').text(name);
+        $elem.find('[class$="pcode"]').text(pcode);
+        $elem.find('[class$="price"]').text(price);
 
         if ( html[i][1] ) {
           result += html[i][1].outerHTML + '\n';

@@ -32,6 +32,8 @@ API対応フォーマットに変換します。
 
 商品名 品番 価格 or 商品名|品番|価格
 
+### 例
+
 ```html
 BLOUSE BLLTYM0407 ¥7,900+tax
 SKIRT SKLTYM0458 ¥7,900+tax

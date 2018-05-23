@@ -1,1 +1,0 @@
-https://trymcom.github.io/ec-api-format/
